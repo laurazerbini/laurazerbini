@@ -1,4 +1,4 @@
-<h1> ✨ hello, world! I'm Laura ✨ </h1>
+<h1> ✨ Hello, world! I'm Laura [she/her] ✨ </h1>
 <h2> Full Stack developer and passionate about creative problem solving. </h2>
 
 <!--
