@@ -1,4 +1,5 @@
-### <h1> hello, world! I'm Laura, a full stack developer passionate about creative problem solving. </h1> 
+<h1> ✨ hello, world! I'm Laura ✨ </h1>
+<h2> Full Stack developer and passionate about creative problem solving. </h2>
 
 <!--
 **laurazerbini/laurazerbini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
