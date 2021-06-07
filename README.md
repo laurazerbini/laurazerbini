@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello, world! I'm Laura, a junior full stack developer and passionate about creative problem solving.
 
 <!--
 **laurazerbini/laurazerbini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
