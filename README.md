@@ -1,5 +1,12 @@
 <h1> ✨ Hello, world! I'm Laura [she/her] ✨ </h1>
-<h2> Full Stack developer and passionate about creative problem solving. </h2>
+<h3> Full Stack developer and passionate about creative problem solving. </h3>
+<p>✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎✂︎</p>
+<h2>About Me</h2>
+👩🏻‍💻|
+🥑|
+📚|
+
+
 
 <!--
 **laurazerbini/laurazerbini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
